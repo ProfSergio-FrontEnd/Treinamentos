@@ -1,1 +1,2 @@
-
+A pasta aluramidi-original contém os arquivos básicos sem qualquer comando Javascript ou outro, ou seja é a base para a realização dos exercícios
+A pasta aluramidi-curso-aula5 é a implementação do exercício e de ideias próprias realizadas.
